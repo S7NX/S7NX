@@ -1,7 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=robot&color=f30cf3&size=24&vCenter=true&height=40&lines=Hi+I+am+S7NX;I+write+code+that+rarely+breaks;Professional+bug+creator;Backend+wizard+in+training;Lover+of+semicolon+disasters;Still+debugging+this+intro!" alt="Typing SVG" />
 
 
-I'm a **backend developer** with **2 years of experience** in building robust applications. My expertise lies in **Discord.js**, **MongoDB**, and **Express**, and I have recently started learning **Python**, **HTML**, **CSS**, and **JavaScript**.
+I'm a **backend developer** with **2 years of experience** in building applications using **Node.js**, **JavaScript**, **Discord.js**, **MongoDB**, and **Express**. I have recently started learning **Python**, **HTML**, **CSS**, and diving into **AI** and **ML** to expand my skill set.
+
 
 -----
 
@@ -31,7 +32,7 @@ I'm a **backend developer** with **2 years of experience** in building robust ap
 -----
 
 ### 🎯 Learning Path
-- **Python**, **HTML**, **CSS**, **JavaScript**
+- **Python**, **HTML**, **CSS**, **AI**, **ML**
 - Exploring new technologies and improving my skills in **backend development**.
 
 -----
