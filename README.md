@@ -17,10 +17,7 @@ I'm a **backend developer** with **2 years of experience** in building applicati
 
 <p align="center"><img src="https://raw.githubusercontent.com/S7NX/S7NX/main/assets/seprator.png" alt="Separator" /></p>
 
-### 🌐 Portfolio
-- Check out my [portfolio](https://s7nx.is-a-awesome.dev/).
 
-<p align="center"><img src="https://raw.githubusercontent.com/S7NX/S7NX/main/assets/seprator.png" alt="Separator" /></p>
 
 ### 🛠️ Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-f30cf3?style=for-the-badge&logo=mongodb&logoColor=white)
